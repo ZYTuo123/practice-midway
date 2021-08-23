@@ -1,0 +1,514 @@
+[
+  {
+    "name": "Process Start",
+    "start": 1629729732288,
+    "end": 1629729740366,
+    "duration": 8078,
+    "pid": 1289,
+    "index": 0
+  },
+  {
+    "name": "Application Start",
+    "start": 1629729740367,
+    "end": 1629729741135,
+    "duration": 768,
+    "pid": 1289,
+    "index": 1
+  },
+  {
+    "name": "Load Plugin",
+    "start": 1629729740368,
+    "end": 1629729740381,
+    "duration": 13,
+    "pid": 1289,
+    "index": 2
+  },
+  {
+    "name": "Load Config",
+    "start": 1629729740381,
+    "end": 1629729740405,
+    "duration": 24,
+    "pid": 1289,
+    "index": 3
+  },
+  {
+    "name": "Require(0) config/config.default.ts",
+    "start": 1629729740382,
+    "end": 1629729740382,
+    "duration": 0,
+    "pid": 1289,
+    "index": 4
+  },
+  {
+    "name": "Require(1) config/config.local.ts",
+    "start": 1629729740382,
+    "end": 1629729740382,
+    "duration": 0,
+    "pid": 1289,
+    "index": 5
+  },
+  {
+    "name": "Require(2) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "start": 1629729740382,
+    "end": 1629729740382,
+    "duration": 0,
+    "pid": 1289,
+    "index": 6
+  },
+  {
+    "name": "Require(3) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+    "start": 1629729740396,
+    "end": 1629729740396,
+    "duration": 0,
+    "pid": 1289,
+    "index": 7
+  },
+  {
+    "name": "Require(4) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "start": 1629729740397,
+    "end": 1629729740397,
+    "duration": 0,
+    "pid": 1289,
+    "index": 8
+  },
+  {
+    "name": "Require(5) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "start": 1629729740397,
+    "end": 1629729740397,
+    "duration": 0,
+    "pid": 1289,
+    "index": 9
+  },
+  {
+    "name": "Require(6) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "start": 1629729740397,
+    "end": 1629729740397,
+    "duration": 0,
+    "pid": 1289,
+    "index": 10
+  },
+  {
+    "name": "Require(7) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js",
+    "start": 1629729740397,
+    "end": 1629729740397,
+    "duration": 0,
+    "pid": 1289,
+    "index": 11
+  },
+  {
+    "name": "Require(8) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "start": 1629729740397,
+    "end": 1629729740397,
+    "duration": 0,
+    "pid": 1289,
+    "index": 12
+  },
+  {
+    "name": "Require(9) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "start": 1629729740397,
+    "end": 1629729740397,
+    "duration": 0,
+    "pid": 1289,
+    "index": 13
+  },
+  {
+    "name": "Require(10) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "start": 1629729740398,
+    "end": 1629729740398,
+    "duration": 0,
+    "pid": 1289,
+    "index": 14
+  },
+  {
+    "name": "Require(11) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js",
+    "start": 1629729740399,
+    "end": 1629729740399,
+    "duration": 0,
+    "pid": 1289,
+    "index": 15
+  },
+  {
+    "name": "Require(12) config/config.default.ts",
+    "start": 1629729740399,
+    "end": 1629729740399,
+    "duration": 0,
+    "pid": 1289,
+    "index": 16
+  },
+  {
+    "name": "Require(13) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.local.js",
+    "start": 1629729740399,
+    "end": 1629729740399,
+    "duration": 0,
+    "pid": 1289,
+    "index": 17
+  },
+  {
+    "name": "Require(14) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/config/config.local.js",
+    "start": 1629729740404,
+    "end": 1629729740404,
+    "duration": 0,
+    "pid": 1289,
+    "index": 18
+  },
+  {
+    "name": "Require(15) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.local.js",
+    "start": 1629729740405,
+    "end": 1629729740405,
+    "duration": 0,
+    "pid": 1289,
+    "index": 19
+  },
+  {
+    "name": "Require(16) config/config.local.ts",
+    "start": 1629729740405,
+    "end": 1629729740405,
+    "duration": 0,
+    "pid": 1289,
+    "index": 20
+  },
+  {
+    "name": "Before Start in node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/dist/framework/web.js:45:22",
+    "start": 1629729740405,
+    "end": 1629729741076,
+    "duration": 671,
+    "pid": 1289,
+    "index": 21
+  },
+  {
+    "name": "Load extend/application.js",
+    "start": 1629729740659,
+    "end": 1629729740707,
+    "duration": 48,
+    "pid": 1289,
+    "index": 22
+  },
+  {
+    "name": "Require(17) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-session@3.3.0@egg-session/app/extend/application.js",
+    "start": 1629729740660,
+    "end": 1629729740667,
+    "duration": 7,
+    "pid": 1289,
+    "index": 23
+  },
+  {
+    "name": "Require(18) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/app/extend/application.js",
+    "start": 1629729740667,
+    "end": 1629729740669,
+    "duration": 2,
+    "pid": 1289,
+    "index": 24
+  },
+  {
+    "name": "Require(19) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-jsonp@2.0.0@egg-jsonp/app/extend/application.js",
+    "start": 1629729740669,
+    "end": 1629729740673,
+    "duration": 4,
+    "pid": 1289,
+    "index": 25
+  },
+  {
+    "name": "Require(20) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/app/extend/application.js",
+    "start": 1629729740675,
+    "end": 1629729740688,
+    "duration": 13,
+    "pid": 1289,
+    "index": 26
+  },
+  {
+    "name": "Require(21) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-mock@3.26.0@egg-mock/app/extend/application.js",
+    "start": 1629729740688,
+    "end": 1629729740699,
+    "duration": 11,
+    "pid": 1289,
+    "index": 27
+  },
+  {
+    "name": "Require(22) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_mock@2.12.7@@midwayjs/mock/app/extend/application.js",
+    "start": 1629729740699,
+    "end": 1629729740702,
+    "duration": 3,
+    "pid": 1289,
+    "index": 28
+  },
+  {
+    "name": "Require(23) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/app/extend/application.js",
+    "start": 1629729740703,
+    "end": 1629729740704,
+    "duration": 1,
+    "pid": 1289,
+    "index": 29
+  },
+  {
+    "name": "Load extend/request.js",
+    "start": 1629729740707,
+    "end": 1629729740716,
+    "duration": 9,
+    "pid": 1289,
+    "index": 30
+  },
+  {
+    "name": "Require(24) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/app/extend/request.js",
+    "start": 1629729740711,
+    "end": 1629729740713,
+    "duration": 2,
+    "pid": 1289,
+    "index": 31
+  },
+  {
+    "name": "Load extend/response.js",
+    "start": 1629729740716,
+    "end": 1629729740732,
+    "duration": 16,
+    "pid": 1289,
+    "index": 32
+  },
+  {
+    "name": "Require(25) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/app/extend/response.js",
+    "start": 1629729740719,
+    "end": 1629729740725,
+    "duration": 6,
+    "pid": 1289,
+    "index": 33
+  },
+  {
+    "name": "Load extend/context.js",
+    "start": 1629729740732,
+    "end": 1629729740733,
+    "duration": 1,
+    "pid": 1289,
+    "index": 34
+  },
+  {
+    "name": "Require(26) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/app/extend/context.js",
+    "start": 1629729740732,
+    "end": 1629729740732,
+    "duration": 0,
+    "pid": 1289,
+    "index": 35
+  },
+  {
+    "name": "Require(27) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-jsonp@2.0.0@egg-jsonp/app/extend/context.js",
+    "start": 1629729740732,
+    "end": 1629729740732,
+    "duration": 0,
+    "pid": 1289,
+    "index": 36
+  },
+  {
+    "name": "Require(28) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/app/extend/context.js",
+    "start": 1629729740732,
+    "end": 1629729740732,
+    "duration": 0,
+    "pid": 1289,
+    "index": 37
+  },
+  {
+    "name": "Require(29) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/app/extend/context.js",
+    "start": 1629729740732,
+    "end": 1629729740732,
+    "duration": 0,
+    "pid": 1289,
+    "index": 38
+  },
+  {
+    "name": "Require(30) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/app/extend/context.js",
+    "start": 1629729740732,
+    "end": 1629729740732,
+    "duration": 0,
+    "pid": 1289,
+    "index": 39
+  },
+  {
+    "name": "Require(31) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/app/extend/context.js",
+    "start": 1629729740732,
+    "end": 1629729740732,
+    "duration": 0,
+    "pid": 1289,
+    "index": 40
+  },
+  {
+    "name": "Require(32) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/app/extend/context.js",
+    "start": 1629729740732,
+    "end": 1629729740732,
+    "duration": 0,
+    "pid": 1289,
+    "index": 41
+  },
+  {
+    "name": "Load extend/helper.js",
+    "start": 1629729740733,
+    "end": 1629729740768,
+    "duration": 35,
+    "pid": 1289,
+    "index": 42
+  },
+  {
+    "name": "Require(33) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/app/extend/helper.js",
+    "start": 1629729740734,
+    "end": 1629729740764,
+    "duration": 30,
+    "pid": 1289,
+    "index": 43
+  },
+  {
+    "name": "Require(34) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/app/extend/helper.js",
+    "start": 1629729740765,
+    "end": 1629729740765,
+    "duration": 0,
+    "pid": 1289,
+    "index": 44
+  },
+  {
+    "name": "Load app.js",
+    "start": 1629729740768,
+    "end": 1629729740898,
+    "duration": 130,
+    "pid": 1289,
+    "index": 45
+  },
+  {
+    "name": "Require(35) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-session@3.3.0@egg-session/app.js",
+    "start": 1629729740768,
+    "end": 1629729740768,
+    "duration": 0,
+    "pid": 1289,
+    "index": 46
+  },
+  {
+    "name": "Require(36) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/app.js",
+    "start": 1629729740769,
+    "end": 1629729740772,
+    "duration": 3,
+    "pid": 1289,
+    "index": 47
+  },
+  {
+    "name": "Require(37) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-onerror@2.1.0@egg-onerror/app.js",
+    "start": 1629729740772,
+    "end": 1629729740814,
+    "duration": 42,
+    "pid": 1289,
+    "index": 48
+  },
+  {
+    "name": "Require(38) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/app.js",
+    "start": 1629729740815,
+    "end": 1629729740888,
+    "duration": 73,
+    "pid": 1289,
+    "index": 49
+  },
+  {
+    "name": "Require(39) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-schedule@3.6.6@egg-schedule/app.js",
+    "start": 1629729740888,
+    "end": 1629729740891,
+    "duration": 3,
+    "pid": 1289,
+    "index": 50
+  },
+  {
+    "name": "Require(40) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/app.js",
+    "start": 1629729740891,
+    "end": 1629729740893,
+    "duration": 2,
+    "pid": 1289,
+    "index": 51
+  },
+  {
+    "name": "Require(41) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_midway-schedule@2.12.7@midway-schedule/app.js",
+    "start": 1629729740893,
+    "end": 1629729740894,
+    "duration": 1,
+    "pid": 1289,
+    "index": 52
+  },
+  {
+    "name": "Require(42) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-mock@3.26.0@egg-mock/app.js",
+    "start": 1629729740895,
+    "end": 1629729740895,
+    "duration": 0,
+    "pid": 1289,
+    "index": 53
+  },
+  {
+    "name": "Require(43) /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/app.js",
+    "start": 1629729740896,
+    "end": 1629729740898,
+    "duration": 2,
+    "pid": 1289,
+    "index": 54
+  },
+  {
+    "name": "Did Load in /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/app.js:didLoad",
+    "start": 1629729740929,
+    "end": 1629729741076,
+    "duration": 147,
+    "pid": 1289,
+    "index": 55
+  },
+  {
+    "name": "Load Service",
+    "start": 1629729740929,
+    "end": 1629729740966,
+    "duration": 37,
+    "pid": 1289,
+    "index": 56
+  },
+  {
+    "name": "Load \"service\" to Context",
+    "start": 1629729740929,
+    "end": 1629729740966,
+    "duration": 37,
+    "pid": 1289,
+    "index": 57
+  },
+  {
+    "name": "Load Middleware",
+    "start": 1629729740966,
+    "end": 1629729741073,
+    "duration": 107,
+    "pid": 1289,
+    "index": 58
+  },
+  {
+    "name": "Load \"middlewares\" to Application",
+    "start": 1629729740966,
+    "end": 1629729741073,
+    "duration": 107,
+    "pid": 1289,
+    "index": 59
+  },
+  {
+    "name": "Load Controller",
+    "start": 1629729741073,
+    "end": 1629729741073,
+    "duration": 0,
+    "pid": 1289,
+    "index": 60
+  },
+  {
+    "name": "Load \"controller\" to Application",
+    "start": 1629729741073,
+    "end": 1629729741073,
+    "duration": 0,
+    "pid": 1289,
+    "index": 61
+  },
+  {
+    "name": "Load Router",
+    "start": 1629729741073,
+    "end": 1629729741074,
+    "duration": 1,
+    "pid": 1289,
+    "index": 62
+  },
+  {
+    "name": "Will Ready in /Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/app.js:willReady",
+    "start": 1629729741076,
+    "end": 1629729741134,
+    "duration": 58,
+    "pid": 1289,
+    "index": 63
+  }
+]

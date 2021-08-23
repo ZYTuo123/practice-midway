@@ -1,0 +1,271 @@
+{
+  "keys": "/Users/tuotuo/workspace/Node_projects/practice-midway/src/config/config.default.ts",
+  "middleware": "/Users/tuotuo/workspace/Node_projects/practice-midway/src/config/config.default.ts",
+  "midwayFeature": {
+    "replaceEggLogger": "/Users/tuotuo/workspace/Node_projects/practice-midway/src/config/config.default.ts"
+  },
+  "security": {
+    "csrf": "/Users/tuotuo/workspace/Node_projects/practice-midway/src/config/config.local.ts",
+    "domainWhiteList": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "value": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.local.js",
+      "maxAge": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "value": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "value": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "policy": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js",
+      "checkAddress": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "key": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "httpOnly": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "encrypt": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js",
+    "logValue": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-session@3.3.0@egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-security@2.9.0@egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "callback": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
+    "csrf": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
+    "templatePath": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "dirs": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "queryField": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieField": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-i18n@2.1.1@egg-i18n/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js",
+      "file": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-schedule@3.6.6@egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "autoFields": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "fields": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "fileSize": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "files": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "whitelist": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js",
+      "disable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-multipart@2.13.1@egg-multipart/config/config.default.js"
+    }
+  },
+  "view": {
+    "root": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "cache": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/config/config.local.js",
+    "defaultExtension": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js",
+    "mapping": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg-view@2.1.3@egg-view/config/config.default.js"
+  },
+  "env": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "name": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "cookies": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "proxy": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "maxIpsCount": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "maxProxyCount": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "protocolHeaders": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "ipHeaders": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "hostHeaders": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "version": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "description": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "private": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "dependencies": {
+      "@midwayjs/bootstrap": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "@midwayjs/core": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "@midwayjs/web": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "@midwayjs/decorator": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "egg": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "egg-scripts": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@midwayjs/cli": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "@midwayjs/egg-ts-helper": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "@midwayjs/luckyeye": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "@midwayjs/mock": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "@types/jest": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "@types/node": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "cross-env": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "mwts": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "jest": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "ts-jest": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "typescript": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "stop": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "start_build": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "dev": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "test": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "cov": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "lint": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "lint:fix": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "ci": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "build": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "check": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "midway-bin-clean": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "midway-luckyeye": {
+      "packages": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "url": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "author": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "license": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "baseDir": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "HOME": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "rundir": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "notFound": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "sitefile": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "middlewares": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "httpClient": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "encoding": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "formLimit": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "jsonLimit": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "textLimit": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "strict": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "depth": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "parameterLimit": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "onerror": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "encoding": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "env": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "level": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "consoleLevel": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "outputJSON": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "buffer": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "appLogName": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js",
+    "coreLogName": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js",
+    "agentLogName": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js",
+    "errorLogName": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "maxSockets": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "maxSockets": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "maxFreeSockets": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "logging": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "workerStartTimeout": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "serverTimeout": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "port": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+      "hostname": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+    "responseTimeout": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js"
+  },
+  "onClientError": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_egg@2.30.0@egg/config/config.default.js",
+  "pluginOverwrite": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js",
+  "alinode": {
+    "logdir": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js",
+    "error_log": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js",
+    "packages": "/Users/tuotuo/workspace/Node_projects/practice-midway/node_modules/_@midwayjs_web@2.12.7@@midwayjs/web/config/config.default.js"
+  }
+}
