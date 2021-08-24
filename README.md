@@ -26,5 +26,6 @@ $ npm stop
 - Use `npm run lint` to check code style.
 - Use `npm test` to run unit test.
 
-
 [midway]: https://midwayjs.org
+
+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
